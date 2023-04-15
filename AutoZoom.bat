@@ -1,0 +1,1 @@
+"C:\Users\psusk\AppData\Local\Programs\Python\Python38\python.exe" "C:\Users\psusk\source\repos\Python\AutoZoom\AutoZoom.py"
